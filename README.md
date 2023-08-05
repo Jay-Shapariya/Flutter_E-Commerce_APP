@@ -7,10 +7,6 @@ This is a simple README file for a Flutter E-Commerce App that uses Firebase as 
 - [Description](#description)
 - [Features](#features)
 - [Dependencies](#dependencies)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
