@@ -29,10 +29,13 @@ The app includes the following features:
 The app utilizes the following Flutter dependencies:
 
 - `flutter`: The Flutter framework.
-- `firebase_core`: Firebase Core plugin for Flutter.
-- `firebase_auth`: Firebase Authentication plugin for Flutter.
-- `cloud_firestore`: Firestore plugin for Flutter to interact with the Firebase Cloud Firestore database.
-- `velocity_x`: A minimalist Flutter framework for rapid UI development.
-- `get`: GetX library for simple and reactive state management in Flutter.
+- `firebase_core: ^2.15.0`: Firebase Core plugin for Flutter.
+- `firebase_auth: ^4.7.2`: Firebase Authentication plugin for Flutter.
+- `firebase_storage: ^11.2.5`: Firebase Storage plugin for Flutter.
+- `cloud_firestore: ^4.8.4`: Firestore plugin for Flutter to interact with the Firebase Cloud Firestore database.
+- `velocity_x: ^4.1.1`: A minimalist Flutter framework for rapid UI development.
+- `get: ^4.6.5`: GetX library for simple and reactive state management in Flutter.
+- `image_picker: ^1.0.1`: A Flutter plugin for picking images from the image library (camera or gallery).
+
 
 Please make sure to check the `pubspec.yaml` file for the specific versions of these dependencies used in the app.
